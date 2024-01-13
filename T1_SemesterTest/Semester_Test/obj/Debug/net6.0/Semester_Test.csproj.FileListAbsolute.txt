@@ -1,0 +1,14 @@
+C:\Users\Tung\Desktop\COS20007\T1_SemesterTest\Semester_Test\bin\Debug\net6.0\Semester_Test.exe
+C:\Users\Tung\Desktop\COS20007\T1_SemesterTest\Semester_Test\bin\Debug\net6.0\Semester_Test.deps.json
+C:\Users\Tung\Desktop\COS20007\T1_SemesterTest\Semester_Test\bin\Debug\net6.0\Semester_Test.runtimeconfig.json
+C:\Users\Tung\Desktop\COS20007\T1_SemesterTest\Semester_Test\bin\Debug\net6.0\Semester_Test.dll
+C:\Users\Tung\Desktop\COS20007\T1_SemesterTest\Semester_Test\bin\Debug\net6.0\Semester_Test.pdb
+C:\Users\Tung\Desktop\COS20007\T1_SemesterTest\Semester_Test\obj\Debug\net6.0\Semester_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tung\Desktop\COS20007\T1_SemesterTest\Semester_Test\obj\Debug\net6.0\Semester_Test.AssemblyInfoInputs.cache
+C:\Users\Tung\Desktop\COS20007\T1_SemesterTest\Semester_Test\obj\Debug\net6.0\Semester_Test.AssemblyInfo.cs
+C:\Users\Tung\Desktop\COS20007\T1_SemesterTest\Semester_Test\obj\Debug\net6.0\Semester_Test.csproj.CoreCompileInputs.cache
+C:\Users\Tung\Desktop\COS20007\T1_SemesterTest\Semester_Test\obj\Debug\net6.0\Semester_Test.dll
+C:\Users\Tung\Desktop\COS20007\T1_SemesterTest\Semester_Test\obj\Debug\net6.0\refint\Semester_Test.dll
+C:\Users\Tung\Desktop\COS20007\T1_SemesterTest\Semester_Test\obj\Debug\net6.0\Semester_Test.pdb
+C:\Users\Tung\Desktop\COS20007\T1_SemesterTest\Semester_Test\obj\Debug\net6.0\Semester_Test.genruntimeconfig.cache
+C:\Users\Tung\Desktop\COS20007\T1_SemesterTest\Semester_Test\obj\Debug\net6.0\ref\Semester_Test.dll

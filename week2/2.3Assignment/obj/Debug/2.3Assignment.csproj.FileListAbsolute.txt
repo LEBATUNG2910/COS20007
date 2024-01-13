@@ -1,0 +1,10 @@
+C:\Users\Tung\Desktop\COS20007\week2\2.3Assignment\bin\Debug\2.3Assignment.exe.config
+C:\Users\Tung\Desktop\COS20007\week2\2.3Assignment\bin\Debug\2.3Assignment.exe
+C:\Users\Tung\Desktop\COS20007\week2\2.3Assignment\bin\Debug\2.3Assignment.pdb
+C:\Users\Tung\Desktop\COS20007\week2\2.3Assignment\obj\Debug\2.3Assignment.csproj.AssemblyReference.cache
+C:\Users\Tung\Desktop\COS20007\week2\2.3Assignment\obj\Debug\_2._3Assignment.Form1.resources
+C:\Users\Tung\Desktop\COS20007\week2\2.3Assignment\obj\Debug\_2._3Assignment.Properties.Resources.resources
+C:\Users\Tung\Desktop\COS20007\week2\2.3Assignment\obj\Debug\2.3Assignment.csproj.GenerateResource.cache
+C:\Users\Tung\Desktop\COS20007\week2\2.3Assignment\obj\Debug\2.3Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Tung\Desktop\COS20007\week2\2.3Assignment\obj\Debug\2.3Assignment.exe
+C:\Users\Tung\Desktop\COS20007\week2\2.3Assignment\obj\Debug\2.3Assignment.pdb

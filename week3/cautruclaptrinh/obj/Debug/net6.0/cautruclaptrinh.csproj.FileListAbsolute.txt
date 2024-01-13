@@ -1,0 +1,14 @@
+C:\Users\Tung\Desktop\COS20007\week3\cautruclaptrinh\bin\Debug\net6.0\cautruclaptrinh.exe
+C:\Users\Tung\Desktop\COS20007\week3\cautruclaptrinh\bin\Debug\net6.0\cautruclaptrinh.deps.json
+C:\Users\Tung\Desktop\COS20007\week3\cautruclaptrinh\bin\Debug\net6.0\cautruclaptrinh.runtimeconfig.json
+C:\Users\Tung\Desktop\COS20007\week3\cautruclaptrinh\bin\Debug\net6.0\cautruclaptrinh.dll
+C:\Users\Tung\Desktop\COS20007\week3\cautruclaptrinh\bin\Debug\net6.0\cautruclaptrinh.pdb
+C:\Users\Tung\Desktop\COS20007\week3\cautruclaptrinh\obj\Debug\net6.0\cautruclaptrinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tung\Desktop\COS20007\week3\cautruclaptrinh\obj\Debug\net6.0\cautruclaptrinh.AssemblyInfoInputs.cache
+C:\Users\Tung\Desktop\COS20007\week3\cautruclaptrinh\obj\Debug\net6.0\cautruclaptrinh.AssemblyInfo.cs
+C:\Users\Tung\Desktop\COS20007\week3\cautruclaptrinh\obj\Debug\net6.0\cautruclaptrinh.csproj.CoreCompileInputs.cache
+C:\Users\Tung\Desktop\COS20007\week3\cautruclaptrinh\obj\Debug\net6.0\cautruclaptrinh.dll
+C:\Users\Tung\Desktop\COS20007\week3\cautruclaptrinh\obj\Debug\net6.0\refint\cautruclaptrinh.dll
+C:\Users\Tung\Desktop\COS20007\week3\cautruclaptrinh\obj\Debug\net6.0\cautruclaptrinh.pdb
+C:\Users\Tung\Desktop\COS20007\week3\cautruclaptrinh\obj\Debug\net6.0\cautruclaptrinh.genruntimeconfig.cache
+C:\Users\Tung\Desktop\COS20007\week3\cautruclaptrinh\obj\Debug\net6.0\ref\cautruclaptrinh.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "batung_2.4_Assignment", "batung_2.4_Assignment.csproj", "{27C66B59-9D00-40F1-A2B2-F96BAC8409A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "batung_Ilteration1", "..\batung_Ilteration1\batung_Ilteration1.csproj", "{3A032A0C-ED9E-4FD5-BA78-B753B1758E3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27C66B59-9D00-40F1-A2B2-F96BAC8409A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C66B59-9D00-40F1-A2B2-F96BAC8409A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C66B59-9D00-40F1-A2B2-F96BAC8409A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C66B59-9D00-40F1-A2B2-F96BAC8409A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A032A0C-ED9E-4FD5-BA78-B753B1758E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A032A0C-ED9E-4FD5-BA78-B753B1758E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A032A0C-ED9E-4FD5-BA78-B753B1758E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A032A0C-ED9E-4FD5-BA78-B753B1758E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72CF38FD-60E3-4291-9BAC-5061A55E44EF}
+	EndGlobalSection
+EndGlobal

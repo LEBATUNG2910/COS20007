@@ -1,0 +1,7 @@
+C:\Users\Tung\Desktop\COS20007\week4\CaseStudy-Iteration2\CaseStudy-Iteration2\bin\Debug\CaseStudy-Iteration2.exe.config
+C:\Users\Tung\Desktop\COS20007\week4\CaseStudy-Iteration2\CaseStudy-Iteration2\bin\Debug\CaseStudy-Iteration2.exe
+C:\Users\Tung\Desktop\COS20007\week4\CaseStudy-Iteration2\CaseStudy-Iteration2\bin\Debug\CaseStudy-Iteration2.pdb
+C:\Users\Tung\Desktop\COS20007\week4\CaseStudy-Iteration2\CaseStudy-Iteration2\obj\Debug\CaseStudy-Iteration3.csproj.AssemblyReference.cache
+C:\Users\Tung\Desktop\COS20007\week4\CaseStudy-Iteration2\CaseStudy-Iteration2\obj\Debug\CaseStudy-Iteration3.csproj.CoreCompileInputs.cache
+C:\Users\Tung\Desktop\COS20007\week4\CaseStudy-Iteration2\CaseStudy-Iteration2\obj\Debug\CaseStudy-Iteration2.exe
+C:\Users\Tung\Desktop\COS20007\week4\CaseStudy-Iteration2\CaseStudy-Iteration2\obj\Debug\CaseStudy-Iteration2.pdb

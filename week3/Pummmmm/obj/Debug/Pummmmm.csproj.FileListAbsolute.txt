@@ -1,0 +1,10 @@
+C:\Users\Tung\Desktop\COS20007\week3\Pummmmm\bin\Debug\Pummmmm.exe.config
+C:\Users\Tung\Desktop\COS20007\week3\Pummmmm\bin\Debug\Pummmmm.exe
+C:\Users\Tung\Desktop\COS20007\week3\Pummmmm\bin\Debug\Pummmmm.pdb
+C:\Users\Tung\Desktop\COS20007\week3\Pummmmm\obj\Debug\Pummmmm.csproj.AssemblyReference.cache
+C:\Users\Tung\Desktop\COS20007\week3\Pummmmm\obj\Debug\Pummmmm.Form1.resources
+C:\Users\Tung\Desktop\COS20007\week3\Pummmmm\obj\Debug\Pummmmm.Properties.Resources.resources
+C:\Users\Tung\Desktop\COS20007\week3\Pummmmm\obj\Debug\Pummmmm.csproj.GenerateResource.cache
+C:\Users\Tung\Desktop\COS20007\week3\Pummmmm\obj\Debug\Pummmmm.csproj.CoreCompileInputs.cache
+C:\Users\Tung\Desktop\COS20007\week3\Pummmmm\obj\Debug\Pummmmm.exe
+C:\Users\Tung\Desktop\COS20007\week3\Pummmmm\obj\Debug\Pummmmm.pdb

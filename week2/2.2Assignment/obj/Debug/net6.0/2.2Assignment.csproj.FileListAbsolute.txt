@@ -1,0 +1,14 @@
+C:\Users\Tung\Desktop\COS20007\week2\2.2Assignment\bin\Debug\net6.0\2.2Assignment.exe
+C:\Users\Tung\Desktop\COS20007\week2\2.2Assignment\bin\Debug\net6.0\2.2Assignment.deps.json
+C:\Users\Tung\Desktop\COS20007\week2\2.2Assignment\bin\Debug\net6.0\2.2Assignment.runtimeconfig.json
+C:\Users\Tung\Desktop\COS20007\week2\2.2Assignment\bin\Debug\net6.0\2.2Assignment.dll
+C:\Users\Tung\Desktop\COS20007\week2\2.2Assignment\bin\Debug\net6.0\2.2Assignment.pdb
+C:\Users\Tung\Desktop\COS20007\week2\2.2Assignment\obj\Debug\net6.0\2.2Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tung\Desktop\COS20007\week2\2.2Assignment\obj\Debug\net6.0\2.2Assignment.AssemblyInfoInputs.cache
+C:\Users\Tung\Desktop\COS20007\week2\2.2Assignment\obj\Debug\net6.0\2.2Assignment.AssemblyInfo.cs
+C:\Users\Tung\Desktop\COS20007\week2\2.2Assignment\obj\Debug\net6.0\2.2Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Tung\Desktop\COS20007\week2\2.2Assignment\obj\Debug\net6.0\2.2Assignment.dll
+C:\Users\Tung\Desktop\COS20007\week2\2.2Assignment\obj\Debug\net6.0\refint\2.2Assignment.dll
+C:\Users\Tung\Desktop\COS20007\week2\2.2Assignment\obj\Debug\net6.0\2.2Assignment.pdb
+C:\Users\Tung\Desktop\COS20007\week2\2.2Assignment\obj\Debug\net6.0\2.2Assignment.genruntimeconfig.cache
+C:\Users\Tung\Desktop\COS20007\week2\2.2Assignment\obj\Debug\net6.0\ref\2.2Assignment.dll

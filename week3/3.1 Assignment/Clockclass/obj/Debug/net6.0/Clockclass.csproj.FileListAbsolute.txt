@@ -1,0 +1,14 @@
+C:\Users\Tung\Desktop\COS20007\week3\Clockclass\bin\Debug\net6.0\Clockclass.exe
+C:\Users\Tung\Desktop\COS20007\week3\Clockclass\bin\Debug\net6.0\Clockclass.deps.json
+C:\Users\Tung\Desktop\COS20007\week3\Clockclass\bin\Debug\net6.0\Clockclass.runtimeconfig.json
+C:\Users\Tung\Desktop\COS20007\week3\Clockclass\bin\Debug\net6.0\Clockclass.dll
+C:\Users\Tung\Desktop\COS20007\week3\Clockclass\bin\Debug\net6.0\Clockclass.pdb
+C:\Users\Tung\Desktop\COS20007\week3\Clockclass\obj\Debug\net6.0\Clockclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tung\Desktop\COS20007\week3\Clockclass\obj\Debug\net6.0\Clockclass.AssemblyInfoInputs.cache
+C:\Users\Tung\Desktop\COS20007\week3\Clockclass\obj\Debug\net6.0\Clockclass.AssemblyInfo.cs
+C:\Users\Tung\Desktop\COS20007\week3\Clockclass\obj\Debug\net6.0\Clockclass.csproj.CoreCompileInputs.cache
+C:\Users\Tung\Desktop\COS20007\week3\Clockclass\obj\Debug\net6.0\Clockclass.dll
+C:\Users\Tung\Desktop\COS20007\week3\Clockclass\obj\Debug\net6.0\refint\Clockclass.dll
+C:\Users\Tung\Desktop\COS20007\week3\Clockclass\obj\Debug\net6.0\Clockclass.pdb
+C:\Users\Tung\Desktop\COS20007\week3\Clockclass\obj\Debug\net6.0\Clockclass.genruntimeconfig.cache
+C:\Users\Tung\Desktop\COS20007\week3\Clockclass\obj\Debug\net6.0\ref\Clockclass.dll

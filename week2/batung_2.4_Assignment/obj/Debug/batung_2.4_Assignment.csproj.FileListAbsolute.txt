@@ -1,0 +1,7 @@
+C:\Users\Tung\Desktop\COS20007\week2\batung_2.4_Assignment\obj\Debug\batung_2.4_Assignment.csproj.AssemblyReference.cache
+C:\Users\Tung\Desktop\COS20007\week2\batung_2.4_Assignment\obj\Debug\batung_2.4_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Tung\Desktop\COS20007\week2\batung_2.4_Assignment\bin\Debug\batung_2.4_Assignment.exe.config
+C:\Users\Tung\Desktop\COS20007\week2\batung_2.4_Assignment\bin\Debug\batung_2.4_Assignment.exe
+C:\Users\Tung\Desktop\COS20007\week2\batung_2.4_Assignment\bin\Debug\batung_2.4_Assignment.pdb
+C:\Users\Tung\Desktop\COS20007\week2\batung_2.4_Assignment\obj\Debug\batung_2.4_Assignment.exe
+C:\Users\Tung\Desktop\COS20007\week2\batung_2.4_Assignment\obj\Debug\batung_2.4_Assignment.pdb

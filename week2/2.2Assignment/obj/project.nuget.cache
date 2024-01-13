@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ozgk/otoB9r5ljHqcwOi7RvSTHG3ABgwK5M2VLF0k3NLIOfWjp5jTvlOTlyzkg744r7xNgOT8tHsfi4q1AjEyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tung\\Desktop\\COS20007\\week2\\2.2Assignment\\2.2Assignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tung\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Tung\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Tung\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Tung\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

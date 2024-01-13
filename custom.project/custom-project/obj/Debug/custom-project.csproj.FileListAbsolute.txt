@@ -1,0 +1,7 @@
+C:\Users\Tung\Desktop\COS20007\custom.project\custom-project\bin\Debug\custom-project.exe.config
+C:\Users\Tung\Desktop\COS20007\custom.project\custom-project\bin\Debug\custom-project.exe
+C:\Users\Tung\Desktop\COS20007\custom.project\custom-project\bin\Debug\custom-project.pdb
+C:\Users\Tung\Desktop\COS20007\custom.project\custom-project\obj\Debug\custom-project.csproj.AssemblyReference.cache
+C:\Users\Tung\Desktop\COS20007\custom.project\custom-project\obj\Debug\custom-project.csproj.CoreCompileInputs.cache
+C:\Users\Tung\Desktop\COS20007\custom.project\custom-project\obj\Debug\custom-project.exe
+C:\Users\Tung\Desktop\COS20007\custom.project\custom-project\obj\Debug\custom-project.pdb
